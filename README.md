@@ -1,16 +1,25 @@
-### Hi there 👋
+# Gaurav Yadav
+[![Linkedin Badge](https://img.shields.io/badge/-RohitGhumare-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gauravmehta13/)](https://www.linkedin.com/in/gauravmehta13/) [![Twitter Badge](http://img.shields.io/badge/-@ghumare64-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/gauravmehta_)](https://twitter.com/gauravmehta_)  [![Medium Badge](https://img.shields.io/badge/-@RohitGhumare-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@gauravmehta13)](https://medium.com/@gauravmehta13)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gauravmehta@outlook.in)](mailto:gauravmehta@outlook.in)
+---
+## Hi there 👋,           
+I'm Gaurav Yadav, Student at 👨‍💻 I am a Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
 
-<!--
-**gauravmehta13/gauravmehta13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧐 About
+- 🏄‍ Actively contributing to various organisations and Open-Source Projects.
+- 😄 I usually be a part of hackathons as a Mentor, Participants and a Organiser.
+- 🔭 I am currently a LinuxWorldIndia Intern & Trainee,
+- 🌱
+- 👯 And Many more...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Currently, I'm seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind.
+
+Specific fields of interest include :
+Machine Learning | Deep Learning | Computer Vision | Jenkins | Docker | Kubernetes | Git & GitHub | Prometheus & Grafana | AWS & OpenStack cloud | Terraform | OpenShift | RedHat Linux etc.
+
+I am open to all Internships and Job Offers.
+
+Let's discuss about future technology and technical stuff.
+📫 You can reach me at: gauravmehta@outlook.in or message me at [Whatsapp](https://wa.me/7073142922)
+I am open to all Internships and Job Offers. 😊❤
