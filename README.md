@@ -21,5 +21,5 @@ Machine Learning | Deep Learning | Computer Vision | Jenkins | Docker | Kubernet
 I am open to all Internships and Job Offers.
 
 Let's discuss about future technology and technical stuff.
-📫 You can reach me at: gauravmehta@outlook.in or message me at [Whatsapp](https://wa.me/7073142922)
+📫 You can reach me at: gauravmehta@outlook.in or message me at [Whatsapp](https://wa.me/+917073142922)
 I am open to all Internships and Job Offers. 😊❤
