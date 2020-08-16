@@ -18,8 +18,6 @@ I'm Gaurav Yadav, Student at Rajasthan Technical University. 👨‍💻 I am a 
 Specific fields of interest include :
 Machine Learning | Deep Learning | Computer Vision | Jenkins | Docker | Kubernetes | Git & GitHub | Prometheus & Grafana | AWS & OpenStack cloud | Terraform | OpenShift | RedHat Linux etc.
 
-I am open to all Internships and Job Offers.
-
 Let's discuss about future technology and technical stuff.
 📫 You can reach me at: gauravmehta@outlook.in or message me at [Whatsapp](https://wa.me/+917073142922)
 I am open to all Internships and Job Offers. 😊❤
