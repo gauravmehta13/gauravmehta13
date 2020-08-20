@@ -1,7 +1,7 @@
 # Gaurav Yadav
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravmehta13&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 [![Linkedin Badge](https://img.shields.io/badge/-gauravmehta13-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gauravmehta13/)](https://www.linkedin.com/in/gauravmehta13/) [![Twitter Badge](http://img.shields.io/badge/-@gauravmehta_-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/gauravmehta_)](https://twitter.com/gauravmehta_)  [![Medium Badge](https://img.shields.io/badge/-@gauravmehta13-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@gauravmehta13)](https://medium.com/@gauravmehta13)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gauravmehta@outlook.in)](mailto:gauravmehta@outlook.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravmehta13&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 ---
 ## Hi there 👋,           
 I'm Gaurav Yadav, Student at Rajasthan Technical University. 👨‍💻 I am a Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
