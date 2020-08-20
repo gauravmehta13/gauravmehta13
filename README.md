@@ -1,5 +1,4 @@
 # Gaurav Yadav
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravmehta13&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-gauravmehta13-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gauravmehta13/)](https://www.linkedin.com/in/gauravmehta13/) [![Twitter Badge](http://img.shields.io/badge/-@gauravmehta_-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/gauravmehta_)](https://twitter.com/gauravmehta_)  [![Medium Badge](https://img.shields.io/badge/-@gauravmehta13-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@gauravmehta13)](https://medium.com/@gauravmehta13)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gauravmehta@outlook.in)](mailto:gauravmehta@outlook.in)
@@ -31,4 +30,4 @@ I am open to all Internships and Job Offers. 😊❤
 <a href="https://linkedin.com/in/gauravmehta13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gauravmehta13" height="30" width="30" /></a>
 <a href="https://medium.com/@gauravmehta13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gauravmehta13" height="30" width="30" /></a>
 </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravmehta13&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
