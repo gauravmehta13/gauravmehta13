@@ -8,9 +8,9 @@ I'm Gaurav Yadav, Student at Rajasthan Technical University. 👨‍💻 I am a 
 
 ## 🧐 About
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
-- 😄 I usually be a part of hackathons as a Mentor, Participants and a Organiser.
+- 😄  Also developing Android apps using Flutter.
 - 🔭 I am currently a LinuxWorldIndia Intern & Trainee,
-- 🌱
+- 🌱 
 - 👯 And Many more...
 
 
