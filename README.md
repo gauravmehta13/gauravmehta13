@@ -7,7 +7,7 @@
  <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
 </p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gauravmehta13/gauravmehta13/master/code.gif" width="500"/>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
