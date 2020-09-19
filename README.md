@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! I'm Gaurav.👋</h1>
 <p align="center">
   <b>An Otaku who loves coding and anime.</b></br>
-  <sub>Seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind.<sub>
+  <sub>Currently I am seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind.<sub>
 </p>
  
  <p align="center">
