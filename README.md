@@ -25,7 +25,6 @@
 - 🛢 &nbsp; MySQL | Firebase 
 - 📈 &nbsp; Prometheus | Grafana
 - 🔧 &nbsp; Jupyter Notebook | Visual Studio code | Git
-- 🖥 &nbsp; Canva
 
 <br>
 
