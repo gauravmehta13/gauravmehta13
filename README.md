@@ -28,8 +28,7 @@
 
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gauravmehta13&show_icons=true" alt="gauravmehta13" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravmehta13&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
-<br>
+
 <br>
 
 <p align="center">
@@ -43,5 +42,6 @@
 &nbsp; <a href="https://www.linkedin.com/in/gauravmehta13/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:269mehta@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravmehta13&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
 
