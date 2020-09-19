@@ -1,8 +1,12 @@
-<h2> Hey there! I'm Gaurav.👋,</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gauravmehta13/gauravmehta13/master/code.gif" width="500"/>
-
-An Otaku who loves coding and anime 🤓
-Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
+<h1 align="center"> Hey there! I'm Gaurav.👋</h1>
+<p align="center">
+  <b>An Otaku who loves coding and anime 🤓</b></br>
+  <sub>Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏<sub>
+</p>
+ 
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="5" />
+</p>
 
 ## 🧐 About Me
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
