@@ -5,11 +5,9 @@ A Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and 
 
 ## 🧐 About Me
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🏄‍ Actively contributing to various organisations and Open-Source Projects.
-- 😄  Also developing Android apps using Flutter.
-- 🔭 I am currently a LinuxWorldIndia Intern & Trainee,
-- 🌱 
-- 👯 And Many more...
+- 🤔 &nbsp; Actively contributing to various organisations and Open-Source Projects.
+- 🎓 &nbsp; Studying Data Science and Machine Learning.
+- 🌱 &nbsp; I am currently a LinuxWorldIndia Intern & Trainee,
 
 <h3>🛠 Tech Stack</h3>
 
