@@ -7,6 +7,8 @@
  <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="5" />
 </p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 
 ## 🧐 About Me
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
