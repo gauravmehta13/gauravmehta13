@@ -34,14 +34,13 @@
 Specific fields of interest include :
 Machine Learning | Deep Learning | Computer Vision | Jenkins | Docker | Kubernetes | Git & GitHub | Prometheus & Grafana | AWS & OpenStack cloud | Terraform | OpenShift | RedHat Linux etc.
 
-Let's discuss about future technology and technical stuff.
-📫 You can reach me at: gauravmehta@outlook.in or message me at [Whatsapp](https://wa.me/+917073142922)
-I am open to all Internships and Job Offers. 😊❤
-
-
-<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+  <b>Let's discuss about future technology and technical stuff📫 .</b></br>
+  <sub>I am open to all Internships and Job Offers. 😊❤<sub>
+</p>
+<p align="center">
+&nbsp; <a href="https://wa.me/+917073142922" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a> 
 &nbsp; <a href="https://twitter.com/gauravmehta_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/gauravmehta13" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/gauravmehta13/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
