@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! I'm Gaurav.👋</h1>
 <p align="center">
-  <b>An Otaku who loves coding and anime ÚwÚ</b></br>
+  <b>An Otaku who loves coding and anime.</b></br>
   <sub>Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏<sub>
 </p>
  
