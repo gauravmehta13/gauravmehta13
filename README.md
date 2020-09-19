@@ -1,7 +1,8 @@
 <h2> Hey there! I'm Gaurav.👋,</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/gauravmehta13/gauravmehta13/master/code.gif" width="500"/>
 
-A Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
+An Otaku who loves coding and anime 🤓
+Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
 
 ## 🧐 About Me
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
