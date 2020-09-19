@@ -14,6 +14,8 @@ A Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | Flutter 
+- ☁️ &nbsp; AWS | Azure | GCP
+- 🐳 &nbsp; Docker | Jenkins | Kubernetes
 - 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp; Jupyter Notebook | Visual Studio code | Git
 - 🖥 &nbsp; Canva
