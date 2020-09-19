@@ -1,18 +1,24 @@
 <h2> Hey there! I'm Gaurav.👋,</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/gauravmehta13/gauravmehta13/master/code.gif" width="500"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-gauravmehta13-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gauravmehta13/)](https://www.linkedin.com/in/gauravmehta13/) [![Twitter Badge](http://img.shields.io/badge/-@gauravmehta_-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/gauravmehta_)](https://twitter.com/gauravmehta_)  [![Medium Badge](https://img.shields.io/badge/-@gauravmehta13-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@gauravmehta13)](https://medium.com/@gauravmehta13)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gauravmehta@outlook.in)](mailto:gauravmehta@outlook.in)
----
-          
-I'm Gaurav Yadav, Student at Rajasthan Technical University. 👨‍💻 I am a Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
+A Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏
 
-## 🧐 About
+## 🧐 About Me
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 😄  Also developing Android apps using Flutter.
 - 🔭 I am currently a LinuxWorldIndia Intern & Trainee,
 - 🌱 
 - 👯 And Many more...
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Dart | Flutter 
+- 🛢 &nbsp; MySQL | Firebase 
+- 🔧 &nbsp; Jupyter Notebook | Visual Studio code | Git
+- 🖥 &nbsp; Canva
+
+<br>
 
 
 ⚡ Currently, I'm seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind.
