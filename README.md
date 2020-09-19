@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! I'm Gaurav.👋</h1>
 <p align="center">
   <b>An Otaku who loves coding and anime.</b></br>
-  <sub>Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏<sub>
+  <sub>A Data Science Enthusiast, Future Cloud Evangalist☁ and DevOps Specialist and love to integrate all these technologies to create highly-skilled tech product. Automation is a future and I'm contributing to the future by automating ML and DL models to make easy the hard work at jobs of Data Scientist.🙏<sub>
 </p>
  
  <p align="center">
@@ -33,7 +33,8 @@
 
 Specific fields of interest include :
 Machine Learning | Deep Learning | Computer Vision | Jenkins | Docker | Kubernetes | Git & GitHub | Prometheus & Grafana | AWS & OpenStack cloud | Terraform | OpenShift | RedHat Linux etc.
-
+<br>
+<br>
 
 <p align="center">
   <b>Let's discuss about future technology and technical stuff📫 .</b></br>
