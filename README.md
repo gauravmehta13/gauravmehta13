@@ -10,7 +10,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
-## 🧐 About Me
+<h3> 👨🏻‍💻 About Me </h3>
+
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Actively contributing to various organisations and Open-Source Projects.
 - 🎓 &nbsp; Studying Data Science and Machine Learning.
