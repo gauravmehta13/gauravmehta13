@@ -12,9 +12,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently Data Science and Machine Learning.
 - 🤔 &nbsp; Actively contributing to various organisations and Open-Source Projects.
-- 🎓 &nbsp; Studying Data Science and Machine Learning.
+- 🎓 &nbsp; Completed my graduation from Rajasthan Technical University.
 - 🌱 &nbsp; I am currently a LinuxWorldIndia Intern & Trainee,
 
 <h3>🛠 Tech Stack</h3>
