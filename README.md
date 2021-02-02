@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! I'm Gaurav.👋</h1>
 <p align="center">
-  <b>An Otaku who loves data science and anime.</b></br>
+  <b>An Otaku who loves App Development and anime.</b></br>
   <sub>Currently I am seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind.<sub>
 </p>
  
@@ -12,10 +12,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently studying Data Science and Machine Learning.
+- 🔭 &nbsp; I’m currently Learning Web Development.
 - 🤔 &nbsp; Actively contributing to various organisations and Open-Source Projects.
 - 🎓 &nbsp; Completed my graduation from Rajasthan Technical University.
-- 🌱 &nbsp; I am currently a LinuxWorldIndia Intern & Trainee,
+- 🌱 &nbsp; Making Android Apps via Flutter,
 
 <h3>🛠 Tech Stack</h3>
 
