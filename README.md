@@ -27,7 +27,7 @@
 - 🔧 &nbsp; Jupyter Notebook | Visual Studio code | Git
 
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gauravmehta13&show_icons=true" alt="gauravmehta13" /> </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gauravmehta13&show_icons=true" alt="gauravmehta13" /> </p> -->
 
 <br>
 
