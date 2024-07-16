@@ -28,7 +28,7 @@
 
 <br>
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gauravmehta13&show_icons=true" alt="gauravmehta13" /> </p> -->
-
+<!-- 
 <br>
 
 <p align="center">
@@ -44,4 +44,4 @@
 </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravmehta13&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
-
+ -->
