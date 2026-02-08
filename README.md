@@ -1,7 +1,7 @@
-<h1 align="center"> Hey there! I'm Gaurav.👋</h1>
+<h1 align="center"> Hey there! I'm Gaurav 👋</h1>
 <p align="center">
-  <b>Fluttering all the way up..!!</b></br>
-  <sub>Currently I am seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind.<sub>
+  <b>Senior Flutter Engineer | Health-Tech Specialist | Open Source Contributor</b></br>
+  <sub>Building scalable mobile architectures that bridge Dart and native platforms<sub>
 </p>
  
  <p align="center">
@@ -12,36 +12,60 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working as a Flutter Developer.
-- 🤔 &nbsp; Actively contributing to various organisations and Open-Source Projects.
-- 🎓 &nbsp; Completed my graduation from Rajasthan Technical University.
-- 🌱 &nbsp; Making Android Apps via Flutter,
+- 🔭 &nbsp; Lead Mobile Engineer at **[Caremonitor](https://apps.apple.com/us/app/caremonitor/id1359688906)** (Australia) - remote patient monitoring platform
+- 🛠 &nbsp; Architecting offline-first Flutter apps with **Clean Architecture**, Provider, and Drift
+- 🔌 &nbsp; Expert in native platform bridges - built custom **MethodChannels** for BLE medical devices (Swift/Kotlin)
+- 📦 &nbsp; Published packages: **[razorpay_web](https://pub.dev/packages/razorpay_web)** & **[free_place_search](https://pub.dev/packages/free_place_search)**
+- 🤝 &nbsp; Contributed to Flutter's official **[go_router](https://github.com/flutter/packages/go_router/pull/1995)** package (500K+ downloads)
+- 🎓 &nbsp; B.Tech in Computer Science from Rajasthan Technical University
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Flutter 
-- ☁️ &nbsp; AWS | Azure | GCP | OpenStack
-- 🐳 &nbsp; Docker | Jenkins | Kubernetes | Terraform
-- 🛢 &nbsp; MySQL | Firebase 
-- 📈 &nbsp; Prometheus | Grafana
-- 🔧 &nbsp; Jupyter Notebook | Visual Studio code | Git
+- 💻 &nbsp; **Mobile:** Flutter | Dart | Swift (iOS) | Kotlin (Android) | MethodChannels
+- 🏗 &nbsp; **Architecture:** Clean Architecture | MVVM | Provider | MobX | GetX
+- 💾 &nbsp; **Database:** Drift (SQLite) | Firebase | Supabase
+- 🔧 &nbsp; **DevOps:** Codemagic CI/CD | GitHub Actions | Patrol Testing
+- 🩺 &nbsp; **Integrations:** BLE Devices | HealthKit | Google Fit | Payment Gateways
+- 🛢 &nbsp; **Backend:** Node.js | Firebase | REST APIs
 
 <br>
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gauravmehta13&show_icons=true" alt="gauravmehta13" /> </p> -->
-<!-- 
-<br>
+
+<h3>📦 Open Source Contributions</h3>
 
 <p align="center">
-  <b>Let's discuss about future technology and technical stuff📫 .</b></br>
-  <sub>I am open to all Internships and Job Offers. 😊❤<sub>
+  <a href="https://pub.dev/packages/razorpay_web">
+    <img src="https://img.shields.io/pub/v/razorpay_web?label=razorpay_web&color=blue" alt="razorpay_web" />
+  </a>
+  &nbsp;
+  <a href="https://pub.dev/packages/free_place_search">
+    <img src="https://img.shields.io/pub/v/free_place_search?label=free_place_search&color=blue" alt="free_place_search" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/flutter/packages/pull/1995">
+    <img src="https://img.shields.io/badge/go__router-contributor-green" alt="go_router" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/leoafarias/sidekick/pull/232">
+    <img src="https://img.shields.io/badge/sidekick-contributor-green" alt="sidekick" />
+  </a>
 </p>
+
+<br>
+
 <p align="center">
-&nbsp; <a href="https://wa.me/+917073142922" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a> 
+  <b>Let's connect and build something amazing together 🚀</b></br>
+  <sub>Open to discussing Flutter architecture, health-tech challenges, and open-source collaboration<sub>
+</p>
+
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/gauravmehta13/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://github.com/gauravmehta13" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" /></a>
+&nbsp; <a href="https://medium.com/@gauravmehta13" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/100/000000/medium-logo.png" width="50" /></a>
 &nbsp; <a href="https://twitter.com/gauravmehta_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/gauravmehta13" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/gauravmehta13/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:269mehta@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:gauravmehta@outlook.in" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravmehta13&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
- -->
+<p align="center">
+  <sub>💡 Currently exploring: AI-powered health diagnostics & Flutter 3.x performance optimizations</sub>
+</p>
