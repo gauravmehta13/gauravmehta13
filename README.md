@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! I'm Gaurav 👋</h1>
 <p align="center">
-  <b>Senior Flutter Engineer | Health-Tech Specialist | Open Source Contributor</b></br>
+  <b>Senior Flutter Engineer | Open Source Contributor</b></br>
   <sub>Building scalable mobile architectures that bridge Dart and native platforms<sub>
 </p>
  
@@ -66,5 +66,5 @@
 </p>
 
 <p align="center">
-  <sub>💡 Currently exploring: AI-powered health diagnostics & Flutter 3.x performance optimizations</sub>
+  <sub>💡 Currently exploring: Flutter 3.x performance optimizations</sub>
 </p>
