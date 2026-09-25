@@ -12,7 +12,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Lead Mobile Engineer at **[Caremonitor](https://apps.apple.com/us/app/caremonitor/id1359688906)** (Australia) - remote patient monitoring platform
 - 🛠 &nbsp; Architecting offline-first Flutter apps with **Clean Architecture**, Provider, and Drift
 - 🔌 &nbsp; Expert in native platform bridges - built custom **MethodChannels** for BLE medical devices (Swift/Kotlin)
 - 📦 &nbsp; Published packages: **[razorpay_web](https://pub.dev/packages/razorpay_web)** & **[free_place_search](https://pub.dev/packages/free_place_search)**
